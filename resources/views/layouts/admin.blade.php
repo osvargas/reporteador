@@ -15,6 +15,8 @@
     <!-- AdminLTE Skins. Choose a skin from the css/skins
          folder instead of downloading all of them to reduce the load. -->
     <link rel="stylesheet" href="{{asset('css/_all-skins.min.css')}}">
+    <!-- Estilos -->
+    <link rel="stylesheet" href="{{asset('css/estilos.css')}}">
     <link rel="apple-touch-icon" href="{{asset('img/apple-touch-icon.png')}}">
     <link rel="shortcut icon" href="{{asset('img/favicon.ico')}}">
 
@@ -202,6 +204,8 @@
     <script src="{{asset('js/bootstrap.min.js')}}"></script>
     <!-- AdminLTE App -->
     <script src="{{asset('js/app.min.js')}}"></script>
+    <!-- JavaScript -->
+    <script src="{{asset('js/javascript.js')}}"></script>
     
   </body>
 </html>
